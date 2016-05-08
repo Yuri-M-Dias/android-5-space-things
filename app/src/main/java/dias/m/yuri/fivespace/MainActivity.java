@@ -53,10 +53,14 @@ public class MainActivity extends AppCompatActivity {
      */
     private void initializeData() {
         facts = new ArrayList<>();
-        facts.add(new SpaceFact("Emma", R.string.iris_nebula, R.drawable.emma));
-        facts.add(new SpaceFact("Lavery", R.string.iris_nebula, R.drawable
-                .lavery));
-        facts.add(new SpaceFact("Lillie", R.string.iris_nebula, R.drawable.lillie));
+        facts.add(new SpaceFact("The Earth", R.string.earth_rotation, R.drawable
+                .earth));
+        facts.add(new SpaceFact("Venus", R.string.hottest_planet, R
+                .drawable.hottest_planet));
+        facts.add(new SpaceFact("Voyager 1", R.string.voyager1, R.drawable
+                .voyager1));
+        facts.add(new SpaceFact("Moon", R.string.moon, R.drawable.moon));
+        facts.add(new SpaceFact("Mars", R.string.mars, R.drawable.mars));
     }
 
     /**

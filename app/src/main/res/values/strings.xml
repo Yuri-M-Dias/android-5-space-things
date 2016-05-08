@@ -1,19 +1,60 @@
 <resources>
-  <string name="app_name">FiveSpace</string>
-  <string name="action_settings">Settings</string>
+  <string name="app_name" translatable="false">FiveSpace</string>
   <string name="space_image_activity">Space details</string>
-  <string name="iris_nebula">
-    Called the Iris Nebula, NGC 7023 is not the only nebula to evoke the imagery
-    of flowers, though. Still, this deep telescopic image shows off the Iris
-    Nebula\'s range of colors and symmetries, embedded in surrounding fields of
-    interstellar dust. Within the Iris itself, dusty nebular material surrounds
-    a hot, young star. The dominant color of the brighter reflection nebula is
-    blue, characteristic of dust grains reflecting starlight. Central filaments
-    of the reflection nebula glow with a faint reddish photoluminesence as some
-    dust grains effectively convert the star\'s invisible ultraviolet radiation
-    to visible red light. Infrared observations indicate that this nebula
-    contains complex carbon molecules known as PAHs. The pretty blue petals of
-    the Iris Nebula span about six light-years. The colorful field-of-view
-    stretches almost five Full Moons across the sky.
+  <string name="earth_rotation">
+    The Earth\’s rotation is gradually slowing.
+
+    This deceleration is happening almost imperceptibly, at approximately 17
+    milliseconds per hundred years, although the rate at which it occurs is not
+    perfectly uniform. This has the effect of lengthening our days, but it
+    happens so slowly that it could be as much as 140 million years before the
+    length of a day will have increased to 25 hours.
+  </string>
+  <string name="hottest_planet">
+    The hottest planet is not the closest planet to the Sun.
+
+    Even though Mercury is the closest planet to the Sun, it is not actually the
+    hottest. Mercury does not have any atmosphere meaning that this planet is
+    only hot in the daytime when it is directly facing the Sun. At this stage
+    temperatures can rise to 425°C but at night the planet\’s temperature can
+    drop down to a freezing -180°C. Venus is the hottest planet. Its thick
+    clouds trap the Sun\’s heat causing Venus to be a sizzling 500°C all of the
+    time!
+  </string>
+  <string name="voyager1">
+    The furthest manmade object is Voyager 1. It has messages for aliens
+    on-board.
+
+    In 1977, Voyager 1 and 2 were launched. Their primary mission was to visit
+    Jupiter and Saturn. Voyager 2 continued onto Uranus and Neptune; Voyager 1
+    has now made its way into interstellar space. Voyager 1 is further away from
+    Earth than the distance between the Sun and Pluto. Both craft carry a golden
+    record on board, which will act like a time-capsule of Earth. It has
+    greetings from Earth as well as different kinds of music. It also has noises
+    of rocket engines, the sea, people talking, animal\’s sounds and lots of
+    images. All of which sum up the Earth. United States President Jimmy Carter
+    said at the time \“This record represents our hope and our determination,
+    and our good will in a vast and awesome universe.\” These messages have been
+    recorded as electronic impulses which can be translated into written words.
+    If any aliens find it then can enjoy some Louis Armstrong as well some
+    Peruvian panpipes!
+  </string>
+  <string name="mars">
+    On Mars the Sun appears about half the size as it does on Earth.
+
+    At the closest point to the Sun, the Martian southern hemisphere leans
+    towards the Sun, causing a short, intensely hot summer, while the northern
+    hemisphere endures a brief, cold winter: at its farthest point from the Sun,
+    the Martian northern hemisphere leans towards the Sun, causing a long, mild
+    summer, while the southern hemisphere endures a lengthy, cold winter.
+  </string>
+  <string name="moon">
+    The dark side of the moon is a myth.
+
+    In reality both sides of the Moon see the same amount of sunlight however
+    only one face of the Moon is ever seen from Earth. This is because the Moon
+    rotates around on its own axis in exactly the same time it takes to orbit
+    the Earth, meaning the same side is always facing the Earth. The side facing
+    away from Earth has only been seen by the human eye from spacecraft.
   </string>
 </resources>
