@@ -32,7 +32,6 @@ public class DisplaySpaceImageInfo extends AppCompatActivity {
         TextView textView = (TextView) findViewById(R.id
                 .space_image_description);
         textView.setText(descriptionID);
-
     }
 
 }

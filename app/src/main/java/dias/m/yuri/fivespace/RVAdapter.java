@@ -14,7 +14,6 @@ import java.util.List;
 /**
  * Adapter to use the RecyclerView and be able to dynamically use a number of
  * cardviews.
- * Created by Yuri on 07-May-16.
  */
 public class RVAdapter extends RecyclerView.Adapter<RVAdapter.SpaceFactsHolder> {
 
